@@ -3,7 +3,7 @@ class sum
 {
 	public static void main(String arg[])	
 	{
-                  int n,sum=0;
+                  int n,n-1,sum=0;
                   
                   Scanner sc=new Scanner(System.in);
  
