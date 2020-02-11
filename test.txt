@@ -7,7 +7,11 @@ class sum
                   
                   Scanner sc=new Scanner(System.in);
  
+<<<<<<< HEAD
 	    System.out.println(" you want sum");
+=======
+	    System.out.println("how many numbers you want sum");
+>>>>>>> 2be70bcfe29befce5550bcb82710000c89c6aab6
                    n=sc.nextInt();
                    int a[]=new int[n]; 
 	    System.out.println("enter the "+n+" numbers ");
